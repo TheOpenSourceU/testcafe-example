@@ -8,3 +8,7 @@ fixture `Getting Started - The Open Source U`
 test('My first test', async t => {
     // Test code
 });
+
+test('My second test', async t => {
+    // Test code
+});
